@@ -21,7 +21,7 @@
 - 크로네커 곱에 있어 numpy와 pytorch의 속도 비교
   - 파이토치의가 넘파이보다 크로네커 곱에 있어 월등히 높은 효율을 보이고 있는 것을 확인 했다
 
-![텐서곱 테스트](C:\Users\remon\OneDrive\바탕 화면\텐서곱 테스트.png)
+![텐서곱 테스트](텐서곱 테스트.png)
 
 - 행렬 곱에 있어 numpy와 pytorch의 속도 비교
   - 행렬 곱에 있어서는 두 라이브러리 및 프레임워크 사이의 큰 성능 차이를 확인 하지 못함(15큐비트 기준)
@@ -31,6 +31,6 @@
 
 **테스트 결과**
 
-![real](C:\Users\remon\OneDrive\바탕 화면\real.png)
+![real](real.png)
 
 - 각각 pytorch gpu, pytorch cpu, numpy 기반의 quself를 이용해 1큐비트 부터 15 큐비트까지 생성 및 하다마드 게이트 적용까지 걸리는 시간을 체크 해보았을 때 당연하게도 pytorch gpu 기반의 quself가 제일 좋은 성능을 보임. 이는 numpy 기반의 엔진에 비해 매우 효율적으로 속도 개선이 이루어 진것을 의미함.
