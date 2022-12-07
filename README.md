@@ -1,9 +1,10 @@
 # Quself
 Quantum Computing Simulation Using Numpy & Pytorch<br>
 Quself is based on the calculation of matrix and vector about quantum gates and states.<br><br>
-program specification<br>
+<b>Program Specification</b><br>
 Simulate up to 15 qubits based on a general PC with 16 GB of RAM<br>
-Supportable Quantum Gate<br>
+Support a GUI environment<br><br>
+<b>Supportable Quantum Gate</b><br>
 - I
 - H
 - X
