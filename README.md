@@ -22,6 +22,7 @@ Support a GUI environment<br><br>
 - CZ
 - CS
 - SWAP
-- TOFFOLI <br>
-pycon 2022 presentation video <herf>https://www.youtube.com/watch?v=aJqF-l4D4Mc</herf></br>
+- TOFFOLI <br><br>
+- 
+<b>pycon 2022 presentation video <herf>https://www.youtube.com/watch?v=aJqF-l4D4Mc</herf></b></br>
 ![인터페이스](/gui/display.png)
